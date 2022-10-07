@@ -16,7 +16,11 @@ window.onload = () => {
       screen.value = "";
     } else {
       let answer = eval(screen.value);
-      screen.value = answer;
+      if(answer % 1 === 0){
+        screen.value = answer;
+      } else {
+        screen.value = answer.toFixed(2);
+      }
     }
   });
 
