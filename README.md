@@ -1,4 +1,4 @@
-# **Calculator** [![demo](https://img.shields.io/badge/Live-orange)](https://calculator-fsjs.netlify.app/) ![Made with Javascript](https://img.shields.io/badge/MADE%20WITH-HTML%26CSS-blue)
+# **Calculator** [![demo](https://img.shields.io/badge/Live-orange)](https://calculator-fsjs.netlify.app/) ![Made with Javascript](https://img.shields.io/badge/MADE%20WITH-JAVASCRIPT-blue)
 
 
 > A Simple Calculator with addition, substraction, multiplication and division operation.
